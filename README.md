@@ -20,6 +20,7 @@
 - Completed an industry internship at **Tatvasoft, Ahmedabad** in 2025, where I learnt about angular,.NET and PostgreSQL.
 -  Recently earned a job simulation certification from **Deloitte through a virtual technology program**, simulating real workplace experience in a global tech environment
 -  **Smart India Hackathon, SSIP and ISRO Hackathon participant** – team-driven national and state level challenges
+-  I'm a confident public speaker and love participating in **elocution** events.
 
 ---
 > _“I build and learn with intention – whether it’s an interface or a skill, it should mean something and help me grow.”_
