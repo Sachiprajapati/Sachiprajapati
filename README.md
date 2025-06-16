@@ -10,7 +10,7 @@
 - **Frontend:** HTML, CSS, JavaScript, Angular, React 
 - **Backend:** .NET, Node.js (learning phase)  
 - **Databases:** MySQL, PostgreSQL  
-- **Others:** C,C++,Python, Git, GitHub
+- **Others:** C,C++,Python,Java, Git, GitHub
 
 ---
 
