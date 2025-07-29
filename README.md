@@ -8,8 +8,8 @@
 
 ### 💼 Tech Stack I Work With
 - **Frontend:** HTML, CSS, JavaScript, Angular, React 
-- **Backend:** Node.js (learning phase)  
-- **Databases:** MySQL, PostgreSQL  
+- **Backend:** Node.js
+- **Databases:** MySQL, PostgreSQL, Mongodb
 - **Others:** C,C++,Python,Java, Git, GitHub
 
 ---
